@@ -1,0 +1,7 @@
+swagger: "3.0"
+info:
+  title: Social network
+  version: "0.1"
+tags:
+  - name: Social network core
+basePath: /
